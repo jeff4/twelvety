@@ -1,4 +1,4 @@
-Twelvety is a pre-configured Eleventy starter project built to be fast. It includes:
+I'm experimenting with Twelvety which is an [Eleventy](https://www.11ty.dev) starter originally created by [Greg Ives](https://gregives.co.uk). It includes:
 
 - Component architecture
 - CSS pipeline using Sass, PostCSS and CleanCSS
@@ -8,10 +8,6 @@ Twelvety is a pre-configured Eleventy starter project built to be fast. It inclu
 - Minified HTML, CSS and JS
 - Responsive picture shortcode **with AVIF and WebP support**
 - Content-hash of assets
-
-See the [GitHub repository](https://github.com/gregives/twelvety) for documentation.
-
-Made and used by [Greg Ives](https://gregives.co.uk)
 
 <!-- Markdown images will automatically use the responsive picture shortcode -->
 ![Time-lapse of a blue and white train moving fast through a station](train.jpg)
