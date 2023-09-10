@@ -1,6 +1,5 @@
-# 🕛 Twelvety
+# Twelvety
 
-[See the demo site](https://twelvety.netlify.app)
 
 Twelvety is a pre-configured Eleventy starter project built to be fast. It includes:
 
@@ -36,15 +35,6 @@ Write components like this:
   console.log("Super fast 💨");
 {% endjavascript %}
 ```
-
-## Deploy to netlify
-
-To quickly deploy your own instance of Twelvety to netlify, just click the button below and follow the instructions.
-
-[![Deploy to netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gregives/twelvety)
-
-**What will happen when I click this button?** Netlify will clone the Twelvety git repository to your GitHub account (it will ask your permission to do this), add the new repository to your netlify account and deploy it!
-
 ## Run Locally
 
 Click the <kbd>Use this template</kbd> button at the top of this repository to make your own Twelvety repository in your GitHub account. Clone or download your new Twelvety repository onto your computer.
@@ -347,7 +337,3 @@ The `format` transform beautifies HTML in development using [JS Beautifier](http
 ___
 
 </details>
-
-## Visual Studio Code
-
-If you're using Visual Studio Code I recommend this [Liquid extension](https://github.com/panoply/vscode-liquid) so that your Sass and JavaScript will be highlighted correctly.
