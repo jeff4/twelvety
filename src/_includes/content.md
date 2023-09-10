@@ -1,4 +1,4 @@
-I'm experimenting with Twelvety which is an [Eleventy](https://www.11ty.dev) starter originally created by [Greg Ives](https://gregives.co.uk). It includes:
+I'm playing with Twelvety which is an [Eleventy](https://www.11ty.dev) starter originally created by [Greg Ives](https://gregives.co.uk). It includes:
 
 - Component architecture
 - CSS pipeline using Sass, PostCSS and CleanCSS
